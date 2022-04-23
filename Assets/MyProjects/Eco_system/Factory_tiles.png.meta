@@ -1,0 +1,2376 @@
+fileFormatVersion: 2
+guid: 85ee76afec4e4b7459f8646c23e7e82a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2648907464630220274
+    second: Factory_tiles_0
+  - first:
+      213: -8640338754799117576
+    second: Factory_tiles_1
+  - first:
+      213: -3264293548802100098
+    second: Factory_tiles_2
+  - first:
+      213: 1493659071408319513
+    second: Factory_tiles_3
+  - first:
+      213: -5988636660738548477
+    second: Factory_tiles_4
+  - first:
+      213: -1576344955270160597
+    second: Factory_tiles_5
+  - first:
+      213: -2710562196816294240
+    second: Factory_tiles_6
+  - first:
+      213: -5507195546207871545
+    second: Factory_tiles_7
+  - first:
+      213: 887335610335638905
+    second: Factory_tiles_8
+  - first:
+      213: -4086434273358396967
+    second: Factory_tiles_9
+  - first:
+      213: 3197513996201720086
+    second: Factory_tiles_10
+  - first:
+      213: 8436866759923950972
+    second: Factory_tiles_11
+  - first:
+      213: 4299607108521574798
+    second: Factory_tiles_12
+  - first:
+      213: 7820214070853971679
+    second: Factory_tiles_13
+  - first:
+      213: 6009735141586881075
+    second: Factory_tiles_14
+  - first:
+      213: -5416171202499836496
+    second: Factory_tiles_15
+  - first:
+      213: -2574730949235276312
+    second: Factory_tiles_16
+  - first:
+      213: 3274005390558876732
+    second: Factory_tiles_17
+  - first:
+      213: -652902842316815053
+    second: Factory_tiles_18
+  - first:
+      213: 5574465378674853818
+    second: Factory_tiles_19
+  - first:
+      213: 7369115799990022608
+    second: Factory_tiles_20
+  - first:
+      213: -5482381853847658742
+    second: Factory_tiles_21
+  - first:
+      213: 2693630659398307170
+    second: Factory_tiles_22
+  - first:
+      213: -5094833745214906067
+    second: Factory_tiles_23
+  - first:
+      213: -420673371224551395
+    second: Factory_tiles_24
+  - first:
+      213: 6854565807995539223
+    second: Factory_tiles_25
+  - first:
+      213: 8012672649308299850
+    second: Factory_tiles_26
+  - first:
+      213: -4597816831609587148
+    second: Factory_tiles_27
+  - first:
+      213: 3186944865569828550
+    second: Factory_tiles_28
+  - first:
+      213: -6770189013028295907
+    second: Factory_tiles_29
+  - first:
+      213: 4487797169653730681
+    second: Factory_tiles_30
+  - first:
+      213: 7500070167911836267
+    second: Factory_tiles_31
+  - first:
+      213: -7250714045962742217
+    second: Factory_tiles_32
+  - first:
+      213: 3963379744889811245
+    second: Factory_tiles_33
+  - first:
+      213: -7339438572620886487
+    second: Factory_tiles_34
+  - first:
+      213: 6230265807528735574
+    second: Factory_tiles_35
+  - first:
+      213: -5822751346233321840
+    second: Factory_tiles_36
+  - first:
+      213: -8081615274124901881
+    second: Factory_tiles_37
+  - first:
+      213: 8737292121521526037
+    second: Factory_tiles_38
+  - first:
+      213: 2144911867555781037
+    second: Factory_tiles_39
+  - first:
+      213: -5586885585522903884
+    second: Factory_tiles_40
+  - first:
+      213: 6268550038136891977
+    second: Factory_tiles_41
+  - first:
+      213: -7959142279458917399
+    second: Factory_tiles_42
+  - first:
+      213: -3654430602167904925
+    second: Factory_tiles_43
+  - first:
+      213: -3836444777950805219
+    second: Factory_tiles_44
+  - first:
+      213: -1513379881410537572
+    second: Factory_tiles_45
+  - first:
+      213: -5588839104670659042
+    second: Factory_tiles_46
+  - first:
+      213: -7497500693384534571
+    second: Factory_tiles_47
+  - first:
+      213: 2675845358299608018
+    second: Factory_tiles_48
+  - first:
+      213: 6281948905465312929
+    second: Factory_tiles_49
+  - first:
+      213: 183915050430872225
+    second: Factory_tiles_50
+  - first:
+      213: -1958682787216670737
+    second: Factory_tiles_51
+  - first:
+      213: 6453709400366483476
+    second: Factory_tiles_52
+  - first:
+      213: -1191928739022188060
+    second: Factory_tiles_53
+  - first:
+      213: 3671663286497625584
+    second: Factory_tiles_54
+  - first:
+      213: 5139020760066527565
+    second: Factory_tiles_55
+  - first:
+      213: -5308586077877220639
+    second: Factory_tiles_56
+  - first:
+      213: 905316976893524024
+    second: Factory_tiles_57
+  - first:
+      213: -7017234701350638542
+    second: Factory_tiles_58
+  - first:
+      213: 2506175274224355526
+    second: Factory_tiles_59
+  - first:
+      213: 5027688831910362358
+    second: Factory_tiles_60
+  - first:
+      213: -8360320585581067480
+    second: Factory_tiles_61
+  - first:
+      213: 3317827419995954014
+    second: Factory_tiles_62
+  - first:
+      213: -9205315092750771371
+    second: Factory_tiles_63
+  - first:
+      213: 879422939031720830
+    second: Factory_tiles_64
+  - first:
+      213: -810733801662839862
+    second: Factory_tiles_65
+  - first:
+      213: -4308650634144344580
+    second: Factory_tiles_66
+  - first:
+      213: 7610395093195275970
+    second: Factory_tiles_67
+  - first:
+      213: -2519817687586188388
+    second: Factory_tiles_68
+  - first:
+      213: 523440565082372056
+    second: Factory_tiles_69
+  - first:
+      213: 6313551965707383429
+    second: Factory_tiles_70
+  - first:
+      213: 3587306809488044011
+    second: Factory_tiles_71
+  - first:
+      213: -5962956970340814469
+    second: Factory_tiles_72
+  - first:
+      213: -1449440565050071387
+    second: Factory_tiles_73
+  - first:
+      213: 1341853430219519170
+    second: Factory_tiles_74
+  - first:
+      213: -7292805715686989399
+    second: Factory_tiles_75
+  - first:
+      213: 6025493668150713334
+    second: Factory_tiles_76
+  - first:
+      213: 8145711549269802355
+    second: Factory_tiles_77
+  - first:
+      213: -244261023087953311
+    second: Factory_tiles_78
+  - first:
+      213: -7917691360847949767
+    second: Factory_tiles_79
+  - first:
+      213: -6154769139387932483
+    second: Factory_tiles_80
+  - first:
+      213: -7241926848123278735
+    second: Factory_tiles_81
+  - first:
+      213: 8962105163355068563
+    second: Factory_tiles_82
+  - first:
+      213: 3813168392781683686
+    second: Factory_tiles_83
+  - first:
+      213: 4199013158175041575
+    second: Factory_tiles_84
+  - first:
+      213: -1897527286303538389
+    second: Factory_tiles_85
+  - first:
+      213: -7061335550696145319
+    second: Factory_tiles_86
+  - first:
+      213: -1898952520446168044
+    second: Factory_tiles_87
+  - first:
+      213: 9019151252588686743
+    second: Factory_tiles_88
+  - first:
+      213: 1532296890696193558
+    second: Factory_tiles_89
+  - first:
+      213: -3084280424936355946
+    second: Factory_tiles_90
+  - first:
+      213: -3674280169869886345
+    second: Factory_tiles_91
+  - first:
+      213: 8065542446905663263
+    second: Factory_tiles_92
+  - first:
+      213: -4145013106198762420
+    second: Factory_tiles_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Factory_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 251
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac5d702b03d3bd0800000000000000
+      internalID: -2648907464630220274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa58255ea9571880800000000000000
+      internalID: -8640338754799117576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e743d05ff46e2b2d0800000000000000
+      internalID: -3264293548802100098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c25def20b8ab410800000000000000
+      internalID: 1493659071408319513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1ccbafa614eca0800000000000000
+      internalID: -5988636660738548477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f94a17d92bf1ae0800000000000000
+      internalID: -1576344955270160597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae892d0b06226ad0800000000000000
+      internalID: -2710562196816294240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9aaf34d28293b0800000000000000
+      internalID: -5507195546207871545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753c9a4903705c00800000000000000
+      internalID: 887335610335638905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1cd72eda11a47c0800000000000000
+      internalID: -4086434273358396967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61971f3d90adf5c20800000000000000
+      internalID: 3197513996201720086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7561922e95c51570800000000000000
+      internalID: 8436866759923950972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814c2982e54bab30800000000000000
+      internalID: 4299607108521574798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde23c0a34bf68c60800000000000000
+      internalID: 7820214070853971679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac774354ed66350800000000000000
+      internalID: 6009735141586881075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b50c48ccf4e5d4b0800000000000000
+      internalID: -5416171202499836496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e580aad7d7b44cd0800000000000000
+      internalID: -2574730949235276312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d9f86e8a9f6d20800000000000000
+      internalID: 3274005390558876732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350ddaf25c60f6f0800000000000000
+      internalID: -652902842316815053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 215
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7c0a42aba7c5d40800000000000000
+      internalID: 5574465378674853818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1bf1fd6cb544660800000000000000
+      internalID: 7369115799990022608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fdc5630caaae3b0800000000000000
+      internalID: -5482381853847658742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d898130d2b16520800000000000000
+      internalID: 2693630659398307170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21eacac3b38b49b0800000000000000
+      internalID: -5094833745214906067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d1b53cc7792af0800000000000000
+      internalID: -420673371224551395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fcc1b094f402f50800000000000000
+      internalID: 6854565807995539223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426283525bb23f60800000000000000
+      internalID: 8012672649308299850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3991b3f54130c0800000000000000
+      internalID: -4597816831609587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6b07587d4a3c20800000000000000
+      internalID: 3186944865569828550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b223076f47b02a0800000000000000
+      internalID: -6770189013028295907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc6399fbbd74e30800000000000000
+      internalID: 4487797169653730681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa3e4a41a951860800000000000000
+      internalID: 7500070167911836267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736947abdf9406b90800000000000000
+      internalID: -7250714045962742217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b22c01e0c00730800000000000000
+      internalID: 3963379744889811245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec1241183152a90800000000000000
+      internalID: -7339438572620886487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 180
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653330a1eb9567650800000000000000
+      internalID: 6230265807528735574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 179
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d558308e613fa0800000000000000
+      internalID: -5822751346233321840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020a66f9b558df80800000000000000
+      internalID: -8081615274124901881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 161
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151c1274e8114970800000000000000
+      internalID: 8737292121521526037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99e24baf144cd10800000000000000
+      internalID: 2144911867555781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4382a19256772b0800000000000000
+      internalID: -5586885585522903884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a29e72c0d5ef650800000000000000
+      internalID: 6268550038136891977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3fe0424427b8190800000000000000
+      internalID: -7959142279458917399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651775babad84dc0800000000000000
+      internalID: -3654430602167904925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 161
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1307d10dc532cac0800000000000000
+      internalID: -3836444777950805219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c975d4e14056ffae0800000000000000
+      internalID: -1513379881410537572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0b4bf1747072b0800000000000000
+      internalID: -5588839104670659042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e193c7d683f790800000000000000
+      internalID: -7497500693384534571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d373571d23822520800000000000000
+      internalID: 2675845358299608018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 143
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f96f0f37fd2750800000000000000
+      internalID: 6281948905465312929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab7c193c56d8200800000000000000
+      internalID: 183915050430872225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3740f16c51d4e0800000000000000
+      internalID: -1958682787216670737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188174a18e209950800000000000000
+      internalID: 6453709400366483476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d001802b657fe0800000000000000
+      internalID: -1191928739022188060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c8864e4e54f230800000000000000
+      internalID: 3671663286497625584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419f115728715740800000000000000
+      internalID: 5139020760066527565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4b88961d1456b0800000000000000
+      internalID: -5308586077877220639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387ed07ef4509c00800000000000000
+      internalID: 905316976893524024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6370d736cd9e90800000000000000
+      internalID: -7017234701350638542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c882053229b7c220800000000000000
+      internalID: 2506175274224355526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3733da50f5c540800000000000000
+      internalID: 5027688831910362358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 125
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230e08e8bc2afb80800000000000000
+      internalID: -8360320585581067480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd8eab57a4b0e20800000000000000
+      internalID: 3317827419995954014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5c0be1b6204080800000000000000
+      internalID: -9205315092750771371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d050f086543c00800000000000000
+      internalID: 879422939031720830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30c7027e1bfb4f0800000000000000
+      internalID: -810733801662839862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5909293199434c0800000000000000
+      internalID: -4308650634144344580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb742040e8d9960800000000000000
+      internalID: 7610395093195275970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93dda8e92fc70dd0800000000000000
+      internalID: -2519817687586188388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7b3ceab62a34700800000000000000
+      internalID: 523440565082372056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58235faef0e3e9750800000000000000
+      internalID: 6313551965707383429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 91
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befefdf698ca8c130800000000000000
+      internalID: 3587306809488044011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 107
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7175e38a325f3da0800000000000000
+      internalID: -5962956970340814469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 78
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6262d4c7d82ebe0800000000000000
+      internalID: -1449440565050071387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4bfd8d5983f9210800000000000000
+      internalID: 1341853430219519170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e98c27dfbaca90800000000000000
+      internalID: -7292805715686989399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1d76119ade9350800000000000000
+      internalID: 6025493668150713334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 107
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df5090f716b0170800000000000000
+      internalID: 8145711549269802355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7e56c4e53c9cf0800000000000000
+      internalID: -244261023087953311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309a7338a5be1290800000000000000
+      internalID: -7917691360847949767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0ee3cb31ed59aa0800000000000000
+      internalID: -6154769139387932483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6f38a6e18f7b90800000000000000
+      internalID: -7241926848123278735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398197da92bcf5c70800000000000000
+      internalID: 8962105163355068563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebdf7043781be430800000000000000
+      internalID: 3813168392781683686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e6345834e54a30800000000000000
+      internalID: 4199013158175041575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2344449cf0aaa5e0800000000000000
+      internalID: -1897527286303538389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3becaab8110e90800000000000000
+      internalID: -7061335550696145319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41439756eb095a5e0800000000000000
+      internalID: -1898952520446168044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d611a57467a2d70800000000000000
+      internalID: 9019151252588686743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d16457efc34510800000000000000
+      internalID: 1532296890696193558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974af37b4f6235d0800000000000000
+      internalID: -3084280424936355946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb4a517a5520dc0800000000000000
+      internalID: -3674280169869886345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f95a45f109eef60800000000000000
+      internalID: 8065542446905663263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Factory_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2fa78a84f976c0800000000000000
+      internalID: -4145013106198762420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

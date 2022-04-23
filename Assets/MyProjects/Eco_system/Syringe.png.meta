@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: f2c10f75ebfd4704fa194acfb08f6e87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3032264914042368451
+    second: Syringe_0
+  - first:
+      213: -8945209383130022454
+    second: Syringe_1
+  - first:
+      213: 571002749907995941
+    second: Syringe_2
+  - first:
+      213: 2051032010301380152
+    second: Syringe_3
+  - first:
+      213: 6512542539515003172
+    second: Syringe_4
+  - first:
+      213: -2675550645940724727
+    second: Syringe_5
+  - first:
+      213: 4713580888525835167
+    second: Syringe_6
+  - first:
+      213: 11970241498345782
+    second: Syringe_7
+  - first:
+      213: -8892971649036229
+    second: Syringe_8
+  - first:
+      213: 8622869308851824675
+    second: Syringe_9
+  - first:
+      213: -4548406434327309300
+    second: Syringe_10
+  - first:
+      213: 3820251885528483243
+    second: Syringe_11
+  - first:
+      213: 1983533841328703562
+    second: Syringe_12
+  - first:
+      213: 6138669029486310002
+    second: Syringe_13
+  - first:
+      213: 8454069690872631925
+    second: Syringe_14
+  - first:
+      213: -6829034468309680260
+    second: Syringe_15
+  - first:
+      213: 4386674766258300343
+    second: Syringe_16
+  - first:
+      213: -3168046502662829710
+    second: Syringe_17
+  - first:
+      213: -1179563060767243801
+    second: Syringe_18
+  - first:
+      213: 1497785779231954169
+    second: Syringe_19
+  - first:
+      213: -4294391795689680226
+    second: Syringe_20
+  - first:
+      213: 6003821247620871853
+    second: Syringe_21
+  - first:
+      213: 433626396354355412
+    second: Syringe_22
+  - first:
+      213: 5081550732338542622
+    second: Syringe_23
+  - first:
+      213: -2835648235721269653
+    second: Syringe_24
+  - first:
+      213: 395268841129546281
+    second: Syringe_25
+  - first:
+      213: 1402034149208338409
+    second: Syringe_26
+  - first:
+      213: 8646319990910693587
+    second: Syringe_27
+  - first:
+      213: 1722264937613072194
+    second: Syringe_28
+  - first:
+      213: -3726055704804643843
+    second: Syringe_29
+  - first:
+      213: -8044752449861227597
+    second: Syringe_30
+  - first:
+      213: 2518632680900791000
+    second: Syringe_31
+  - first:
+      213: 1180818538782272053
+    second: Syringe_32
+  - first:
+      213: 6109705944632670356
+    second: Syringe_33
+  - first:
+      213: -4523950115526884184
+    second: Syringe_34
+  - first:
+      213: -1743671098703008733
+    second: Syringe_35
+  - first:
+      213: 5074267616843941324
+    second: Syringe_36
+  - first:
+      213: 7732223825655152129
+    second: Syringe_37
+  - first:
+      213: 8342251613138029809
+    second: Syringe_38
+  - first:
+      213: 2758880201874773153
+    second: Syringe_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Syringe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1306aafd4c41a20800000000000000
+      internalID: 3032264914042368451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 215
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3b05b57b3cd380800000000000000
+      internalID: -8945209383130022454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 185
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d890ac9fb9ce700800000000000000
+      internalID: 571002749907995941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 186
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83618fc1fbab67c10800000000000000
+      internalID: 2051032010301380152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421896c4fe2316a50800000000000000
+      internalID: 6512542539515003172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd22afcd88edad0800000000000000
+      internalID: -2675550645940724727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 190
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b07a038d00a6140800000000000000
+      internalID: 4713580888525835167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63172680fd68a2000800000000000000
+      internalID: 11970241498345782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 215
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309cdfa3e760eff0800000000000000
+      internalID: -8892971649036229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 185
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3282bb253f59aa770800000000000000
+      internalID: 8622869308851824675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 186
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d1db4270d0e0c0800000000000000
+      internalID: -4548406434327309300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 187
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5017d69d2440530800000000000000
+      internalID: 3820251885528483243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 188
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480d5cf48de68b10800000000000000
+      internalID: 1983533841328703562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272393055fee03550800000000000000
+      internalID: 6138669029486310002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721cde9793e25570800000000000000
+      internalID: 8454069690872631925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb08535556a31a0800000000000000
+      internalID: -6829034468309680260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5eef3557990ec30800000000000000
+      internalID: 4386674766258300343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790dd8ad76d804d0800000000000000
+      internalID: -3168046502662829710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cbc455a951afe0800000000000000
+      internalID: -1179563060767243801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 141
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f490c80b3439c410800000000000000
+      internalID: 1497785779231954169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92909b1a614764c0800000000000000
+      internalID: -4294391795689680226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 87
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da672677d9bd15350800000000000000
+      internalID: 6003821247620871853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 57
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02fe7f8ec840600800000000000000
+      internalID: 433626396354355412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183a25c77b458640800000000000000
+      internalID: 5081550732338542622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eded914f0c5a8d0800000000000000
+      internalID: -2835648235721269653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 60
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229e42bae64c7500800000000000000
+      internalID: 395268841129546281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa78261a6057310800000000000000
+      internalID: 1402034149208338409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03798b836edf770800000000000000
+      internalID: 8646319990910693587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 87
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479987f5d6b6e710800000000000000
+      internalID: 1722264937613072194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 57
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2dc5f3146a4cc0800000000000000
+      internalID: -3726055704804643843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 58
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6110154c4b5090800000000000000
+      internalID: -8044752449861227597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da08c8341bf3f220800000000000000
+      internalID: 2518632680900791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a205c643c136010800000000000000
+      internalID: 1180818538782272053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 62
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983cef9f290ac450800000000000000
+      internalID: 6109705944632670356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ce6eb653b731c0800000000000000
+      internalID: -4523950115526884184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c21b4cf5c3dc7e0800000000000000
+      internalID: -1743671098703008733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 13
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5404d438b6b6640800000000000000
+      internalID: 5074267616843941324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ebcf33a906e4b60800000000000000
+      internalID: 7732223825655152129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc850c94a1a5c370800000000000000
+      internalID: 8342251613138029809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syringe_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 13
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49a9a2de2894620800000000000000
+      internalID: 2758880201874773153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
